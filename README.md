@@ -61,7 +61,6 @@ Tableau - https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=T
 
 
 -->
-- Eine falsche Note zu spielen ist unbedeutend; Ohne Leidenschaft zu spielen ist unentschuldbar.
-- 🌱 🐧
-- ⚡ M O T I V A T E D
+# ENGINEERING & DATA
+
 
